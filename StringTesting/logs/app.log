@@ -257,3 +257,49 @@ https://www.amazon.in is broken with error code: 503
 2024-07-22 00:37:07 [main] INFO  testNGBasePack.BaseClass - correct Link: 200
 2024-07-22 00:37:08 [main] INFO  testNGBasePack.BaseClass - correct Link: 200
 2024-07-22 00:37:08 [main] INFO  testNGBasePack.BaseClass - Closing browser
+2024-07-22 00:48:11 [main] INFO  testNGBasePack.BaseClass - Creating the chrome driver
+2024-07-22 00:48:11 [main] INFO  testNGBasePack.BaseClass - Opening google chrome
+2024-07-22 00:48:16 [main] INFO  testNGBasePack.BaseClass - Inside method getSearchResult
+2024-07-22 00:48:16 [main] INFO  testNGBasePack.BaseClass - Check if we are home page of google.com
+2024-07-22 00:48:16 [main] INFO  testNGBasePack.BaseClass - Enter the text in search area amazon
+2024-07-22 00:48:16 [main] INFO  testNGBasePack.BaseClass - Click on search
+2024-07-22 00:48:17 [main] INFO  testNGBasePack.BaseClass - Inside the test case to fetch all broken links
+2024-07-22 00:48:17 [main] INFO  testNGBasePack.BaseClass - Inside method getBrokenLinks
+2024-07-22 00:48:18 [main] INFO  testNGBasePack.BaseClass - correct Link: 200
+2024-07-22 00:48:18 [main] INFO  testNGBasePack.BaseClass - correct Link: 200
+2024-07-22 00:48:18 [main] INFO  testNGBasePack.BaseClass - correct Link: 200
+2024-07-22 00:48:19 [main] INFO  testNGBasePack.BaseClass - correct Link: 200
+2024-07-22 00:48:19 [main] INFO  testNGBasePack.BaseClass - correct Link: 200
+2024-07-22 00:48:19 [main] INFO  testNGBasePack.BaseClass - correct Link: 200
+2024-07-22 00:48:19 [main] INFO  testNGBasePack.BaseClass - correct Link: 200
+2024-07-22 00:48:20 [main] INFO  testNGBasePack.BaseClass - correct Link: 200
+2024-07-22 00:48:20 [main] INFO  testNGBasePack.BaseClass - correct Link: 200
+2024-07-22 00:48:20 [main] INFO  testNGBasePack.BaseClass - correct Link: 200
+2024-07-22 00:48:20 [main] INFO  testNGBasePack.BaseClass - correct Link: 200
+2024-07-22 00:48:21 [main] ERROR testNGBasePack.BaseClass - Link Amazon Prime is broken with error code: 429
+2024-07-22 00:48:21 [main] INFO  testNGBasePack.BaseClass - correct Link: 200
+2024-07-22 00:48:22 [main] INFO  testNGBasePack.BaseClass - correct Link: 200
+2024-07-22 00:48:22 [main] INFO  testNGBasePack.BaseClass - correct Link: 200
+2024-07-22 00:48:23 [main] INFO  testNGBasePack.BaseClass - correct Link: 200
+2024-07-22 00:48:25 [main] INFO  testNGBasePack.BaseClass - correct Link: 200
+2024-07-22 00:48:27 [main] INFO  testNGBasePack.BaseClass - correct Link: 200
+2024-07-22 00:48:29 [main] INFO  testNGBasePack.BaseClass - correct Link: 200
+2024-07-22 00:48:29 [main] INFO  testNGBasePack.BaseClass - correct Link: 200
+2024-07-22 00:48:30 [main] INFO  testNGBasePack.BaseClass - correct Link: 200
+2024-07-22 00:48:30 [main] INFO  testNGBasePack.BaseClass - correct Link: 200
+2024-07-22 00:48:30 [main] INFO  testNGBasePack.BaseClass - correct Link: 200
+2024-07-22 00:48:31 [main] INFO  testNGBasePack.BaseClass - correct Link: 200
+2024-07-22 00:48:31 [main] INFO  testNGBasePack.BaseClass - correct Link: 200
+2024-07-22 00:48:32 [main] INFO  testNGBasePack.BaseClass - correct Link: 200
+2024-07-22 00:48:32 [main] INFO  testNGBasePack.BaseClass - correct Link: 200
+2024-07-22 00:48:33 [main] INFO  testNGBasePack.BaseClass - correct Link: 200
+2024-07-22 00:48:33 [main] INFO  testNGBasePack.BaseClass - correct Link: 200
+2024-07-22 00:48:34 [main] INFO  testNGBasePack.BaseClass - correct Link: 200
+2024-07-22 00:48:34 [main] INFO  testNGBasePack.BaseClass - correct Link: 200
+2024-07-22 00:48:34 [main] INFO  testNGBasePack.BaseClass - correct Link: 200
+2024-07-22 00:48:35 [main] INFO  testNGBasePack.BaseClass - correct Link: 200
+2024-07-22 00:48:35 [main] INFO  testNGBasePack.BaseClass - correct Link: 200
+2024-07-22 00:48:36 [main] INFO  testNGBasePack.BaseClass - correct Link: 200
+2024-07-22 00:48:36 [main] INFO  testNGBasePack.BaseClass - correct Link: 200
+2024-07-22 00:48:36 [main] INFO  testNGBasePack.BaseClass - correct Link: 200
+2024-07-22 00:48:36 [main] INFO  testNGBasePack.BaseClass - Closing browser
