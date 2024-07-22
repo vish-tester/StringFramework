@@ -303,3 +303,76 @@ https://www.amazon.in is broken with error code: 503
 2024-07-22 00:48:36 [main] INFO  testNGBasePack.BaseClass - correct Link: 200
 2024-07-22 00:48:36 [main] INFO  testNGBasePack.BaseClass - correct Link: 200
 2024-07-22 00:48:36 [main] INFO  testNGBasePack.BaseClass - Closing browser
+2024-07-23 03:10:31 [main] INFO  testNGBasePack.BaseClass - Setting up for API Test Cases
+2024-07-23 03:10:31 [main] INFO  testNGBasePack.BaseClass - Creating the pojo 
+2024-07-23 03:10:31 [main] INFO  testNGBasePack.BaseClass - Booking created BookingPojo [firstname=vishal, lastname=singh, totalprice=4000, depositpaid=true, additionalneed=super bowls, bookingdates=BookingDatesPojo [checkin=checking, checkout=checkout]]
+2024-07-23 03:10:31 [main] INFO  testNGBasePack.BaseClass - Serializing to JSON String
+2024-07-23 03:10:31 [main] INFO  testNGBasePack.BaseClass - Hitting the POST request
+2024-07-23 03:10:33 [main] INFO  testNGBasePack.BaseClass - Inside the method: getBookingId
+2024-07-23 03:10:33 [main] INFO  testNGBasePack.BaseClass - Trying to map the json value to jsonNode
+2024-07-23 03:15:02 [main] INFO  testNGBasePack.BaseClass - Setting up for API Test Cases
+2024-07-23 03:15:02 [main] INFO  testNGBasePack.BaseClass - Send the get request with param as Book ID: null
+2024-07-23 03:15:02 [main] INFO  testNGBasePack.BaseClass - Hitting the GET request with param to fetch respective entry null
+2024-07-23 03:15:03 [main] INFO  testNGBasePack.BaseClass - Creating the pojo 
+2024-07-23 03:15:03 [main] INFO  testNGBasePack.BaseClass - Booking created BookingPojo [firstname=vishal, lastname=singh, totalprice=4000, depositpaid=true, additionalneed=super bowls, bookingdates=BookingDatesPojo [checkin=checking, checkout=checkout]]
+2024-07-23 03:15:03 [main] INFO  testNGBasePack.BaseClass - Serializing to JSON String
+2024-07-23 03:15:03 [main] INFO  testNGBasePack.BaseClass - Send the post request
+2024-07-23 03:15:03 [main] INFO  testNGBasePack.BaseClass - Hitting the POST request
+2024-07-23 03:15:05 [main] INFO  testNGBasePack.BaseClass - Inside the method: getBookingId
+2024-07-23 03:15:05 [main] INFO  testNGBasePack.BaseClass - Trying to map the json value to jsonNode
+2024-07-23 03:15:05 [main] INFO  testNGBasePack.BaseClass - Verify the Reponse
+2024-07-23 03:16:47 [main] INFO  testNGBasePack.BaseClass - Setting up for API Test Cases
+2024-07-23 03:16:47 [main] INFO  testNGBasePack.BaseClass - Send the get request with param as Book ID: null
+2024-07-23 03:16:47 [main] INFO  testNGBasePack.BaseClass - Hitting the GET request with param to fetch respective entry null
+2024-07-23 03:16:48 [main] INFO  testNGBasePack.BaseClass - Creating the pojo 
+2024-07-23 03:16:48 [main] INFO  testNGBasePack.BaseClass - Booking created BookingPojo [firstname=vishal, lastname=singh, totalprice=4000, depositpaid=true, additionalneed=super bowls, bookingdates=BookingDatesPojo [checkin=checking, checkout=checkout]]
+2024-07-23 03:16:48 [main] INFO  testNGBasePack.BaseClass - Serializing to JSON String
+2024-07-23 03:16:48 [main] INFO  testNGBasePack.BaseClass - Send the post request
+2024-07-23 03:16:48 [main] INFO  testNGBasePack.BaseClass - Hitting the POST request
+2024-07-23 03:16:50 [main] INFO  testNGBasePack.BaseClass - Inside the method: getBookingId
+2024-07-23 03:16:50 [main] INFO  testNGBasePack.BaseClass - Trying to map the json value to jsonNode
+2024-07-23 03:16:50 [main] INFO  testNGBasePack.BaseClass - Verify the Reponse
+2024-07-23 03:17:50 [main] INFO  testNGBasePack.BaseClass - Setting up for API Test Cases
+2024-07-23 03:17:51 [main] INFO  testNGBasePack.BaseClass - Send the get request with param as Book ID: null
+2024-07-23 03:20:31 [main] INFO  testNGBasePack.BaseClass - Hitting the GET request with param to fetch respective entry null
+2024-07-23 03:20:32 [main] INFO  testNGBasePack.BaseClass - Creating the pojo 
+2024-07-23 03:21:07 [main] INFO  testNGBasePack.BaseClass - Setting up for API Test Cases
+2024-07-23 03:21:07 [main] INFO  testNGBasePack.BaseClass - Send the get request with param as Book ID: null
+2024-07-23 03:21:07 [main] INFO  testNGBasePack.BaseClass - Hitting the GET request with param to fetch respective entry null
+2024-07-23 03:21:08 [main] INFO  testNGBasePack.BaseClass - Creating the pojo 
+2024-07-23 03:21:08 [main] INFO  testNGBasePack.BaseClass - Booking created BookingPojo [firstname=vishal, lastname=singh, totalprice=4000, depositpaid=true, additionalneed=super bowls, bookingdates=BookingDatesPojo [checkin=checking, checkout=checkout]]
+2024-07-23 03:21:08 [main] INFO  testNGBasePack.BaseClass - Serializing to JSON String
+2024-07-23 03:21:08 [main] INFO  testNGBasePack.BaseClass - Send the post request
+2024-07-23 03:21:08 [main] INFO  testNGBasePack.BaseClass - Hitting the POST request
+2024-07-23 03:21:10 [main] INFO  testNGBasePack.BaseClass - Inside the method: getBookingId
+2024-07-23 03:21:10 [main] INFO  testNGBasePack.BaseClass - Trying to map the json value to jsonNode
+2024-07-23 03:21:10 [main] INFO  testNGBasePack.BaseClass - Verify the Reponse
+2024-07-23 03:21:22 [main] INFO  testNGBasePack.BaseClass - Booking created BookingPojo [firstname=vishal, lastname=singh, totalprice=4000, depositpaid=true, additionalneed=super bowls, bookingdates=BookingDatesPojo [checkin=checking, checkout=checkout]]
+2024-07-23 03:21:22 [main] INFO  testNGBasePack.BaseClass - Serializing to JSON String
+2024-07-23 03:21:22 [main] INFO  testNGBasePack.BaseClass - Send the post request
+2024-07-23 03:21:22 [main] INFO  testNGBasePack.BaseClass - Hitting the POST request
+2024-07-23 03:21:24 [main] INFO  testNGBasePack.BaseClass - Inside the method: getBookingId
+2024-07-23 03:21:24 [main] INFO  testNGBasePack.BaseClass - Trying to map the json value to jsonNode
+2024-07-23 03:21:24 [main] INFO  testNGBasePack.BaseClass - Verify the Reponse
+2024-07-23 03:23:42 [main] INFO  testNGBasePack.BaseClass - Setting up for API Test Cases
+2024-07-23 03:23:42 [main] INFO  testNGBasePack.BaseClass - Send the get request with param as Book ID: null
+2024-07-23 03:23:54 [main] INFO  testNGBasePack.BaseClass - Hitting the GET request with param to fetch respective entry null
+2024-07-23 03:23:55 [main] INFO  testNGBasePack.BaseClass - Creating the pojo 
+2024-07-23 03:25:18 [main] INFO  testNGBasePack.BaseClass - Setting up for API Test Cases
+2024-07-23 03:25:18 [main] INFO  testNGBasePack.BaseClass - Creating the pojo 
+2024-07-23 03:25:43 [main] INFO  testNGBasePack.BaseClass - Setting up for API Test Cases
+2024-07-23 03:25:49 [main] INFO  testNGBasePack.BaseClass - Creating the pojo 
+2024-07-23 03:26:22 [main] INFO  testNGBasePack.BaseClass - Setting up for API Test Cases
+2024-07-23 03:26:22 [main] INFO  testNGBasePack.BaseClass - Creating the pojo 
+2024-07-23 03:26:47 [main] INFO  testNGBasePack.BaseClass - Setting up for API Test Cases
+2024-07-23 03:26:47 [main] INFO  testNGBasePack.BaseClass - Creating the pojo 
+2024-07-23 03:28:02 [main] INFO  testNGBasePack.BaseClass - Booking created BookingPojo [firstname=vishal, lastname=singh, totalprice=4000, depositpaid=true, additionalneed=super bowls, bookingdates=BookingDatesPojo [checkin=2024/07/30, checkout=2024/08/01]]
+2024-07-23 03:28:04 [main] INFO  testNGBasePack.BaseClass - Serializing to JSON String
+2024-07-23 03:28:23 [main] INFO  testNGBasePack.BaseClass - Send the post request
+2024-07-23 03:28:24 [main] INFO  testNGBasePack.BaseClass - Hitting the POST request
+2024-07-23 03:29:07 [main] INFO  testNGBasePack.BaseClass - Inside the method: getBookingId
+2024-07-23 03:30:01 [main] INFO  testNGBasePack.BaseClass - Trying to map the json value to jsonNode
+2024-07-23 03:30:15 [main] INFO  testNGBasePack.BaseClass - Verify the Reponse
+2024-07-23 03:30:54 [main] INFO  testNGBasePack.BaseClass - Send the get request with param as Book ID: 3572
+2024-07-23 03:30:58 [main] INFO  testNGBasePack.BaseClass - Hitting the GET request with param to fetch respective entry 3572
+2024-07-23 03:31:19 [main] INFO  testNGBasePack.BaseClass - Verify the Reponse

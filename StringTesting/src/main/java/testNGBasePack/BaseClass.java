@@ -41,6 +41,22 @@ public class BaseClass {
 	}
 	
 	
+	public  Object convertToDataType(String input) {
+        // Try to parse as Integer
+        try {
+            return Integer.parseInt(input);
+        } catch (NumberFormatException e) {
+            // Not an Integer
+        }
+
+        // Try to parse as Boolean
+        if (input.equalsIgnoreCase("true") || input.equalsIgnoreCase("false")) {
+            return Boolean.parseBoolean(input);
+        }
+
+        // If it's not an Integer or Boolean, treat it as a String
+        return input;
+    }
 	
 	public void flushExtent() {
 	//	report.flush();

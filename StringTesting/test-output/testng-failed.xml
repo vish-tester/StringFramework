@@ -3,15 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.ui.tests.UIGoogleTests">
+      <class name="com.api.tests.EndToEndAPIFlowTest">
         <methods>
+          <include name="postNewDataTest"/>
           <include name="setUp"/>
-          <include name="testMethod"/>
-          <include name="getBrokenLinksTest"/>
-          <include name="openSearchResults"/>
-          <include name="cleanUp"/>
+          <include name="getCreatedRequestInfo"/>
         </methods>
-      </class> <!-- com.ui.tests.UIGoogleTests -->
+      </class> <!-- com.api.tests.EndToEndAPIFlowTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
